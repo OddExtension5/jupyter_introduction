@@ -24,7 +24,7 @@ The format and design of a notebook, advanced interaction, and visualization
 
 ## HANDS ON EXERCISE
 
-![jupyter](jupyter.png)
+![jupyter](jupyterfinal.png)
 
 
 ## TEACHERS NAME
