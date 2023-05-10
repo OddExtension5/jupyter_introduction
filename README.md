@@ -6,7 +6,7 @@ Knowing how to run a Jupyter notebook today is just as important as knowing how 
 
 It’s an essential tool for learning, conveying information, and telling a story.
 
-Join expert Sushil Singh & Deebdeep Bose to learn the basics of the Jupyter Notebook and discover how to use it effectively, including the rapid production and maintenance of cells in your notebooks. 
+Join expert Sushil Singh to learn the basics of the Jupyter Notebook and discover how to use it effectively, including the rapid production and maintenance of cells in your notebooks. 
 
 You’ll leave ready to enhance and customize your notebooks to deliver a proposal, class, or story.
 
@@ -29,5 +29,4 @@ The format and design of a notebook, advanced interaction, and visualization
 
 ## TEACHERS NAME
 
-1. SUSHIL SINGH 
-2. DEEBDEEP GHOSH
+> SUSHIL SINGH
